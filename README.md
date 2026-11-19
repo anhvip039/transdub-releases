@@ -52,8 +52,8 @@ All official binaries below are signed release builds (`versionCode 4`). Always 
 
 | Package | Size | SHA-256 Checksum | VirusTotal Scan |
 |---|---:|---|---|
-| **`TransDub_TV.apk`** (`site.transdub.tv`) | `3,714,932` bytes | `ec13bde1a7b570ea7354dc406546d0bea579793f1038f41daf204cbfba0f14da` | [View VirusTotal Report]([REPLACE_WITH_VIRUSTOTAL_TV_LINK](https://www.virustotal.com/gui/file/ec13bde1a7b570ea7354dc406546d0bea579793f1038f41daf204cbfba0f14da) |
-| **`TransDub_Android.apk`** (`site.transdub.browser`) | `3,582,523` bytes | `a1ec438acde618112f73f2f2e54dd43c78b0876223c5e4c23b300f2162ad7b97` | [View VirusTotal Report]([REPLACE_WITH_VIRUSTOTAL_MOBILE_LINK](https://www.virustotal.com/gui/file/a1ec438acde618112f73f2f2e54dd43c78b0876223c5e4c23b300f2162ad7b97) |
+| **`TransDub_TV.apk`** (`site.transdub.tv`) | `3,714,932` bytes | `ec13bde1a7b570ea7354dc406546d0bea579793f1038f41daf204cbfba0f14da` | [View VirusTotal Report](https://www.virustotal.com/gui/file/ec13bde1a7b570ea7354dc406546d0bea579793f1038f41daf204cbfba0f14da) |
+| **`TransDub_Android.apk`** (`site.transdub.browser`) | `3,582,523` bytes | `a1ec438acde618112f73f2f2e54dd43c78b0876223c5e4c23b300f2162ad7b97` | [View VirusTotal Report](https://www.virustotal.com/gui/file/a1ec438acde618112f73f2f2e54dd43c78b0876223c5e4c23b300f2162ad7b97) |
 | **`TransDub_PC_Extension.zip`** (Chrome/Edge MV3) | `186,505` bytes | `6647e9d2fb21fd3288631112df8e6f90bc6de73fc8903e5e7ef316af9df7f7d9` | — |
 
 Verify locally on Windows PowerShell:
